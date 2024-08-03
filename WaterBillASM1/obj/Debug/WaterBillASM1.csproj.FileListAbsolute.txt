@@ -1,0 +1,7 @@
+D:\C shap\WaterBillASM1\WaterBillASM1\obj\Debug\WaterBillASM1.csproj.AssemblyReference.cache
+D:\C shap\WaterBillASM1\WaterBillASM1\obj\Debug\WaterBillASM1.csproj.CoreCompileInputs.cache
+D:\C shap\WaterBillASM1\WaterBillASM1\bin\Debug\WaterBillASM1.exe.config
+D:\C shap\WaterBillASM1\WaterBillASM1\bin\Debug\WaterBillASM1.exe
+D:\C shap\WaterBillASM1\WaterBillASM1\bin\Debug\WaterBillASM1.pdb
+D:\C shap\WaterBillASM1\WaterBillASM1\obj\Debug\WaterBillASM1.exe
+D:\C shap\WaterBillASM1\WaterBillASM1\obj\Debug\WaterBillASM1.pdb
